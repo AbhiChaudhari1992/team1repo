@@ -14,7 +14,7 @@
 </head>
 <body>
 	<h1>
-		You have signed in with invalid credentials. <a href="login.jsp">Please
+		You have signed in with invalid credentials. <a href="welcome.html">Please
 			try again.</a>
 	</h1>
 </body>

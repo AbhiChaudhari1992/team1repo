@@ -50,6 +50,6 @@
 		}
 	%>
 
-	<a href="login.jsp">Return to Login Page</a>
+	<a href="welcome.html">Return to Login Page</a>
 </body>
 </html>
