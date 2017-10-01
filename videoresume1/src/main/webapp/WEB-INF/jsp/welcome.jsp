@@ -113,7 +113,7 @@
 						</button>
 
 						<div style="padding-top: 15px; font-size: 85%">
-							Have an account? <a href="login.jsp">Log in now!</a> <br>
+							Have an account? <a href="welcome.html">Log in now!</a> <br>
 							Company looking to hire? <a href="#"
 								onClick="$('#signupjobseeker').hide(); $('#signupcompany').show()">
 								Sign up!</a>
@@ -188,7 +188,7 @@
 						</button>
 
 						<div style="padding-top: 15px; font-size: 85%">
-							Have an account? <a href="login.jsp">Log in now!</a> <br>
+							Have an account? <a href="login.html">Log in now!</a> <br>
 							Are you a job seeker? <a href="#"
 								onClick="$('#signupcompany').hide(); $('#signupjobseeker').show()">
 								Sign up!</a>
