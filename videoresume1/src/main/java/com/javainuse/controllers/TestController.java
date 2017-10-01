@@ -36,4 +36,5 @@ public class TestController implements ErrorController{
 	public ModelAndView fourthPage() {
 		return new ModelAndView("success");
 	}
+	//add more as we get more .jsp pages
 }
