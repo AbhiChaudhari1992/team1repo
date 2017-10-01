@@ -24,5 +24,16 @@ public class TestController implements ErrorController{
 	public ModelAndView firstPage() {
 		return new ModelAndView("welcome");
 	}
-
+	@RequestMapping("/login.html")
+	public ModelAndView secondPage() {
+		return new ModelAndView("login");
+	}
+	@RequestMapping("/error.html")
+	public ModelAndView thirdPage() {
+		return new ModelAndView("error");
+	}
+	@RequestMapping("/success.html")
+	public ModelAndView fourthPage() {
+		return new ModelAndView("success");
+	}
 }
